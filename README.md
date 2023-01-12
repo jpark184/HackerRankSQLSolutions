@@ -69,7 +69,7 @@ MySQL solutions to SQL challenges on HackerRank
 | 5| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](2_Medium/Weather%20Observation%20Station%2018.sql) |
 | 6| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](2_Medium/Weather%20Observation%20Station%2019.sql) |
 | 7| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](2_Medium/Weather%20Observation%20Station%2020.sql) |
-| 8 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [Solution](2_Medium/The%20Report.sql) |
+| 8 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](2_Medium/The%20Report.sql) |
 | 9 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](2_Medium/Top%20Competitors.sql) |
 | 10 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](2_Medium/Ollivander's%20Inventory.sql) |
 | 11 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](2_Medium/Challenges.sql) |
