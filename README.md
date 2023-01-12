@@ -16,7 +16,7 @@ MySQL solutions to SQL challenges on HackerRank
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |  [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](1_Easy/Revising%the%Select%Query%I.sql)
+| 1 |  [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](1_Easy/Revising%20the%20Select%20Query%20I.sql)
 | 2 |  [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](1_Easy/Revising%the%Select%Query%II.sql)
 | 3 |  [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](1_Easy/Select%All.sql)
 | 4 |  [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](1_Easy/Select%By%ID.sql)
