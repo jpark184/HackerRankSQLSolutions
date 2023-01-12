@@ -74,7 +74,7 @@ MySQL solutions to SQL challenges on HackerRank
 | 10 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](2_Medium/Ollivander's%20Inventory.sql) |
 | 11 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](2_Medium/Challenges.sql) |
 | 12 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](2_Medium/Contest%20Leaderboard.sql) |
-| 13 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](2_Medium/SQL%20PROJECT%20PLANNING.sql) |
+| 13 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](2_Medium/SQL%20Project%20Planning.sql) |
 | 14 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](2_Medium/Placements.sql)       
 | 15 | [Symmetric Pairs](https://www.hackerrank.com/challenges/placements/problem) | [Solution](2_Medium/Placements.sql)      
 | 16 | [Print Prime Numbers](https://www.hackerrank.com/challenges/placements/problem) | [Solution](2_Medium/Print%20Prime%20Numbers.sql)      
