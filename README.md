@@ -38,7 +38,7 @@ MySQL solutions to SQL challenges on HackerRank
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](1_Easy/Employee%20Salaries.sql)
 | 21 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](1_Easy/Type%20of%20Triangle.sql) |
 | 22 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](1_Easy/Revising%20Aggregations%20-%20The%20Count%20Function.sql) | 
-| 23 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](1_Easy/Revising/Revising%20Aggregations%20The%20Sum%20Function.sql)                    |
+| 23 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](1_Easy/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)                    |
 | 24 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](1_Easy/Revising%20Aggregations%20-%20Averages.sql)      
 | 25 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](1_Easy/Average%20Population.sql)                                                                               |
 | 26 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](1_Easy/Japan%20Population.sql)                                                                                     |
