@@ -18,7 +18,7 @@ MySQL solutions to SQL challenges on HackerRank
 |:------:|------------|:---------:|
 | 1 |  [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](1_Easy/Revising%20the%20Select%20Query%20I.sql)
 | 2 |  [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](1_Easy/Revising%20the%20Select%20Query%20II.sql)
-| 3 |  [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](1_Easy/Select%2020All.sql)
+| 3 |  [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](1_Easy/Select%20All.sql)
 | 4 |  [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](1_Easy/Select%20By%20ID.sql)
 | 5 |  [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](1_Easy/Japanese%20Cities'%20Attributes.sql)
 | 6 |  [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](1_Easy/Japanese%20Cities'%20Names.sql)
