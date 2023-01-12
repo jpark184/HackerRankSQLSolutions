@@ -54,8 +54,8 @@ MySQL solutions to SQL challenges on HackerRank
 | 36 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](1_Easy/Population%20Census.sql) |
 | 37 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](1_Easy/African%20Cities.sql) |
 | 38 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](1_Easy/Average%20Population%20of%20Each%20Continent.sql) |
-| 39 | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](1_Easy/Draw%20the%20Triangle%202.sql) |
-| 40 | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](1_EasyDraw%20the%20Triangle%202.sql) |
+| 39 | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](1_Easy/Draw%20The%20Triangle%201.sql) |
+| 40 | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](1_Easy/Draw%20The%20Triangle%202.sql) |
 
 
 ### Medium
